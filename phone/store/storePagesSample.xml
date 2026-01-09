@@ -17,7 +17,7 @@
       <a:id>urn:uuid:47f332c2-b3cb-45fb-9749-f387785647d6</a:id>
       <index>1</index>
       <link>
-         <type>Main</type>
+         <type>DynamicHub.Main</type>
          <target>47f332c2-b3cb-45fb-9749-f387785647d6</target>
       </link>
       <editorialItems>
